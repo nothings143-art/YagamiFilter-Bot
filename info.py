@@ -141,9 +141,9 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 # 🔹 LINKS
 # ============================================================
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+o1s-8MppL2syYTI9')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/neonfiles')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Talk2NeonBot') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/MyselfNeon')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/djdjsnak')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Leoyagamihere') # Support Chat Link Without https:// or @
+OWNER_LNK = environ.get('OWNER_LNK', 'http//t.me/Leoyagamihere')
 
 
 # ============================================================
@@ -261,4 +261,5 @@ REACTIONS = [
 # Dont remove Credits
 # Developer Telegram @MyselfNeon
 # Update channel - @NeonFiles
+
 
